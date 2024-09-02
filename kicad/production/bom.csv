@@ -1,0 +1,7 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"J1, J11, J3, J9",pin-socket-2.54mm-01x02,4,Conn_01x02_Pin,
+"J10, J5, J6, J7, J8",pin-socket-2.54mm-02x05,5,Conn_02x05_Counter_Clockwise,
+J12,pin-header-2.54mm-01x03,1,Conn_01x03_Pin,
+J2,power-header-10-pin,1,Conn_02x05_Odd_Even,
+J4,pin-header-2.54mm-01x05,1,Conn_01x05_Pin,
+U1,PGA2350,1,~,
