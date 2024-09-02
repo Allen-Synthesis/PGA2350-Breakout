@@ -8,3 +8,6 @@ This board adapts the PGA2350 to allow it to be used for Eurorack development wi
 The USB connections are arranged so that an [Adafruit USB Micro-B Breakout Board](https://www.adafruit.com/product/1833) (also sold by [Pimoroni](https://shop.pimoroni.com/products/adafruit-usb-micro-b-breakout-board?variant=821196557)) can be soldered direcly to the board.
 
 *NOTE: The first PCB order for these boards was placed on 02.09.2024 but has not arrived yet. I would not recommend ordering boards while this message is present as they have not been tested*
+
+
+![image](https://github.com/user-attachments/assets/68b4f18e-9988-44c4-aa9e-b8ee314470f0)
