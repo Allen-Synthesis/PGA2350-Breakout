@@ -19,3 +19,6 @@ Pending changes based on version 1.0:
 1. Remove J12 reference text
 1. Add ground stitching vias
 1. Use arrow to label PGA2350 and then use internal space to show orientation
+1. Measure the USB breakout board and adjust position so that the edge is flush
+1. Add lines between the labels and pins for rest of the headers as has been done for the GPIO headers
+1. Add artwork to the back (and front?) to make use of the space
