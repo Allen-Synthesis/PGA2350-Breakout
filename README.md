@@ -10,13 +10,13 @@ The USB connections are arranged so that an [Adafruit USB Micro-B Breakout Board
 *NOTE: The first PCB order for these boards was tested on 10/09/2024 and appears to all work as expected. Not every GPIO has been tested, however the design is likely functional. Aesthetic improvements for version 1.1 (outlined below) have not yet been applied*
 
 Pending changes based on version 1.0:
-1. Increment version to 1.1
+1. ~~Increment version to 1.1~~
 1. Alter pin header footprints to remove square pad for 1x2, 1x5, and 2x5
-1. Add JLC PCB order number text to the back
-1. Use consistent . or / in version date
-1. Remove J12 reference text
+1. ~~Add JLC PCB order number text to the back~~
+1. ~~Use consistent . or / in version date~~
+1. ~~Remove J12 reference text~~
 1. Add ground stitching vias
-1. Use arrow to label PGA2350 and then use internal space to show orientation
+1. ~~Use arrow to label PGA2350 and then use internal space to show orientation~~
 1. Measure the USB breakout board and adjust position so that the edge is flush
-1. Add lines between the labels and pins for rest of the headers as has been done for the GPIO headers
+1. ~~Add lines between the labels and pins for rest of the headers as has been done for the GPIO headers~~
 1. Add artwork to the back (and front?) to make use of the space
