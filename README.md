@@ -1,5 +1,5 @@
 # PGA2350-breakout
-### Breakout board for the Pimoroni PGA2350 for Eurorack breadboard development
+### Pimoroni PGA2350 Breakout board for breadboard development of Eurorack modules
 
 ![PXL_20240910_170328695](https://github.com/user-attachments/assets/0a13265c-7ed1-4494-a1c9-59230b055330)
 
